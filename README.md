@@ -1,25 +1,23 @@
-Method 1 : Local To Remote
+# 🦸‍♂️ Marvel Heroes Project
 
-git - repo create
-git clone <link>
-git add . / git add index.html
-git commit -m "msg"
-git push origin main
+A responsive web application showcasing Marvel characters, built using **Tailwind CSS** for a modern and sleek user interface.
 
+## 📁 File Structure Reference
+Based on this repository:
+* `index.html`: The main structure of the Marvel Hero gallery.
+* `input.css`: The source CSS file where Tailwind directives are stored.
+* `output.css`: The compiled CSS file used by the browser.
+* `package.json`: Contains project dependencies and build scripts.
+* `node_modules/`: Required packages for the Tailwind CLI.
 
+## 🛠️ Tech Stack
+* **HTML5:** Semantic markup.
+* **Tailwind CSS:** Utility-first styling.
+* **JavaScript:** (Planned) Character data and search functionality.
 
-Method 2 :
+## 🚀 Getting Started
 
-vs code - project
-git init
-github repo - readme.md - do not create
-git add origin <link>
-
-
-
-Method 3 : Branches
-
-git branch --> how many brnach in repo 
-git branch <branch name> --> ex. git branch development 
-git branch 
-git checkout <branch name> --> ex.git checkout development
+### 1. Installation
+Ensure you have [Node.js](https://nodejs.org/) installed, then run:
+```bash
+npm install

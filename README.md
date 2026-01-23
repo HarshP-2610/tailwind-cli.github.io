@@ -17,7 +17,4 @@ Based on this repository:
 
 ## 🚀 Getting Started
 
-### 1. Installation
-Ensure you have [Node.js](https://nodejs.org/) installed, then run:
-```bash
-npm install
+
